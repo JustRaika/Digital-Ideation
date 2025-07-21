@@ -13,7 +13,7 @@ Each semester contains a few modules with projects that were done within the mod
 * [Herbstsemester 2023](https://justraika.github.io/Digital-Ideation/Herbstsemester-2023.html)
 * [Frühlingssemester 2024](https://justraika.github.io/Digital-Ideation/Frühlingssemester-2024.html)
 * [Herbstsemester 2024](https://justraika.github.io/Digital-Ideation/Herbstsemester-2024.html)
-* [Frühlingssemester 2025](https://justraika.github.io/Digital-Ideation/Frühlingssemester-2025.htm)
+* [Frühlingssemester 2025](https://justraika.github.io/Digital-Ideation/Frühlingssemester-2025.html)
 * [Herbstsemester 2025]()
 * [Frühlingssemester 2025]()
 

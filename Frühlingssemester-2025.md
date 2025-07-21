@@ -3,12 +3,9 @@ Welcome to the Frühlingssemester 2025 folder. This is a selection of some modul
 
 ## Modules
 
-* [AD (Algorithmen & Datenstrukturen)](https://github.com/JustRaika/Digital-Ideation/wiki/AD)
-* [SOCIM (Social Implications of Digital Media (Term Paper))](https://github.com/JustRaika/Digital-Ideation/wiki/Socim)
-* [+CO_128 (Crafting interactive narratives for art & design)](https://github.com/JustRaika/Digital-Ideation/wiki/CO_128)
-* [STUW2 (Studio UX & Web 2)](https://github.com/JustRaika/Digital-Ideation/wiki/STUW2)
-* [IDCL4 (Ideation Culture Lab 4)](https://github.com/JustRaika/Digital-Ideation/wiki/IDCL4)
-* [ASTAT (Applied Statistics for Data Science)](https://github.com/JustRaika/Digital-Ideation/wiki/Astat)
-* [CO_128 (Crafting interactive narratives for art & design)](https://github.com/JustRaika/Digital-Ideation/wiki/CO_128)
-
-[ASTAT](https://justraika.github.io/Digital-Ideation/static-wiki/Astat.html)
+* [AD (Algorithmen & Datenstrukturen)](https://justraika.github.io/Digital-Ideation/static-wiki/AD.html)
+* [ASTAT (Applied Statistics for Data Science)](https://justraika.github.io/Digital-Ideation/static-wiki/Astat.html)
+* [+CO_128 (Crafting interactive narratives for art & design)](https://justraika.github.io/Digital-Ideation/static-wiki/CO_128.html)
+* [SOCIM (Social Implications of Digital Media (Term Paper))](https://justraika.github.io/Digital-Ideation/static-wiki/SOCIM.html)
+* [STUW2 (Studio UX & Web 2)](https://justraika.github.io/Digital-Ideation/static-wiki/STUW2.html)
+* [IDCL4 (Ideation Culture Lab 4)](https://justraika.github.io/Digital-Ideation/static-wiki/IDCL4.html)
