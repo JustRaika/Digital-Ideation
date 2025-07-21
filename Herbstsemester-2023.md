@@ -9,3 +9,5 @@ Welcome to the Herbstsemester 2023 folder. This is a selection of some modules a
 * OOP (Objektorientierte Programmierung)
 * KIVIS (Kick-Start Visual Design)
 * MATGC (Mathematics for Games and Computergraphics)
+
+[ASTAT](https://justraika.github.io/Digital-Ideation/static-wiki/Astat.html)

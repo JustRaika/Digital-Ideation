@@ -10,3 +10,5 @@ Welcome to the Frühlingssemester 2025 folder. This is a selection of some modul
 * [IDCL4 (Ideation Culture Lab 4)](https://github.com/JustRaika/Digital-Ideation/wiki/IDCL4)
 * [ASTAT (Applied Statistics for Data Science)](https://github.com/JustRaika/Digital-Ideation/wiki/Astat)
 * [CO_128 (Crafting interactive narratives for art & design)](https://github.com/JustRaika/Digital-Ideation/wiki/CO_128)
+
+[ASTAT](https://justraika.github.io/Digital-Ideation/static-wiki/Astat.html)

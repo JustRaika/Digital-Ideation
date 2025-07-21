@@ -10,10 +10,10 @@ Find the webversion here: [Digital Ideation](https://justraika.github.io/Digital
 ## Semesters:
 Each semester contains a few modules with projects that were done within the module or learnings that have been taken from the module.
 
-* [Herbstsemester 2023](https://github.com/JustRaika/Digital-Ideation/wiki/Herbstsemester-2023)
-* [Frühlingssemester 2024](https://github.com/JustRaika/Digital-Ideation/wiki/Fr%C3%BChlingssemester-2024)
-* [Herbstsemester 2024](https://github.com/JustRaika/Digital-Ideation/wiki/Herbstsemester-2024)
-* [Frühlingssemester 2025](https://github.com/JustRaika/Digital-Ideation/wiki/Fr%C3%BChlingssemester-2025)
+* [Herbstsemester 2023](https://justraika.github.io/Digital-Ideation/Herbstsemester-2023.html)
+* [Frühlingssemester 2024](https://justraika.github.io/Digital-Ideation/Frühlingssemester-2024.html)
+* [Herbstsemester 2024](https://justraika.github.io/Digital-Ideation/Herbstsemester-2024.html)
+* [Frühlingssemester 2025](https://justraika.github.io/Digital-Ideation/Frühlingssemester-2025.htm)
 * [Herbstsemester 2025]()
 * [Frühlingssemester 2025]()
 

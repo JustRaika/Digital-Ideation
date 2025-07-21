@@ -9,3 +9,5 @@ Welcome to the Herbstsemester 2024 folder. This is a selection of some modules a
 * ISF (Information Security Fundamentals)
 * [STUW1 (Studio Web & Mobile 1)](https://github.com/JustRaika/Digital-Ideation/wiki/STUW1)
 * IDCL3 (Ideation Culture Lab 3)
+
+[ASTAT](https://justraika.github.io/Digital-Ideation/static-wiki/Astat.html) 
