@@ -1,0 +1,1 @@
+Welcome to the Frühlingssemester 2024 folder. This is a selection of some modules and projects in those modules. Find out more under each link! :)
