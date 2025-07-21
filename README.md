@@ -1,6 +1,3 @@
-
-[ASTAT](https://justraika.github.io/Digital-Ideation/static-wiki/Astat.html)
-
 # Digital Ideation Bachelor’s Program - Focus Computer Science
 This is a repository for the Digital Ideation Bachelor’s program with a deepening on computer science. 
 The repository serves as an archive of my academic work throughout the program.
