@@ -2,6 +2,37 @@
 This folder contains all the assets from the Stuw2 module.
 
 ## Content
+- [General Project](#learning-touchdesigner)
+- [Soul and heart work: Branding](#project-icebreaker)
+
+## General Project
+* `What is it? -` A web event platform for Digital Ideation. This web application is designed to bring together Digital Ideation students across Emmenbrücke and Rotkreuz. The platform provides a space to coordinate, share, and discover upcoming events.
+
+### Problem Statement
+- Two campus locations create coordination challenges
+- New students struggle with local transit info
+- Transportation times vary significantly between users
+- Eco-friendly options like biking are underused
+- Staff often drive alone when transporting equipment
+- Missed chances for social connections due to lack of visibility on who is traveling where
+
+### Project
 * [Demo](https://jfladas.github.io/uxweb2/#/login)
 * [Design & Branding Guidelines (Figma)](https://www.figma.com/design/H39FzuTJQZOMxcQzrEDcp0/UX-Web-Styleguide?node-id=0-1)
 * Project Wrapup
+
+### Team
+- Dario Stocker - UX Research
+- Michelle Studtmann - UI Design
+- Laura Giaimo - UI Design
+- Dominika Degtyareva - Branding
+- Lisa Landolt - Frontend Development
+- Lukas Bucher - Frontend Development
+- Arwen Bättig - Backend Development
+- Jennifer Beeler - Backend Development
+
+### Technologies
+Angular, Node.js, NestJS, PostgreSQL, Heroku
+
+## Soul and heart work: Branding
+
