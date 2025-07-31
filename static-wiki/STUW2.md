@@ -2,7 +2,11 @@
 This folder contains all the assets from the Stuw2 module.
 
 ## Content
-- [General Project](#learning-touchdesigner)
+- [General Project](#general-project)
+  - [Problem Statement](#problem-statement)
+  - [Project](#project)
+  - [Team](#team)
+  - [Technologies](#technologies)
 - [Soul and heart work: Branding](#project-icebreaker)
 
 ## General Project
@@ -18,7 +22,9 @@ This folder contains all the assets from the Stuw2 module.
 
 ### Project
 * [Demo](https://jfladas.github.io/uxweb2/#/login)
+* [GitHub Repository](https://github.com/jfladas/uxweb2)
 * [Design & Branding Guidelines (Figma)](https://www.figma.com/design/H39FzuTJQZOMxcQzrEDcp0/UX-Web-Styleguide?node-id=0-1)
+* [Figma Prototype](https://www.figma.com/proto/H39FzuTJQZOMxcQzrEDcp0/UX-Web-Styleguide?node-id=774-8052&t=4RZi44A5r09E112U-1&starting-point-node-id=774%3A8052&show-proto-sidebar=1)
 * Project Wrapup
 
 ### Team
