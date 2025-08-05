@@ -35,7 +35,8 @@ This folder contains all the assets from the IUX module. The project was collabo
 * [Dokumentation](https://yanisdeplazes.github.io/Digital-Ideation/23HS/IUX/Documentation.pdf)
 * [Testing & Results](https://yanisdeplazes.github.io/Digital-Ideation/23HS/IUX/Testing_Results.pdf)
 
-[Final Product Screencast (MOV)](./pics/IUX_Screencast.mov)
+[Final Product Screencast (MOV)](./IUX_Screencast.mov)
+
 ![Final Product Picture](./pics/IUX_Screens.png)
 ![Screenshot UI](./pics/IUX_Screenshots.png)
 ![Screenshot Figma Design](./pics/IUX_Figma_Design.png)
