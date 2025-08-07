@@ -8,4 +8,4 @@ I wrote `A LOT` of code by hand. The final exam was 4 hours code writting on pap
 ## Content
 * Lecture notes (82 pages)
 * Summary (12 pages)
-* Papercode
+* Papercode 
