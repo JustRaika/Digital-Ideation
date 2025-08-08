@@ -6,6 +6,8 @@ I wrote `A LOT` of code by hand. The final exam was 4 hours code writting on pap
 **Man, by now I dream in Java.**
 
 ## Content
-* Lecture notes (82 pages)
-* Summary (12 pages)
-* Papercode 
+* [Lecture notes (34 pages)](docs/AD_Notes.pdf)
+* [Recap notes (26 pages)](docs/AD_Recap.pdf)
+* [First Failed Exam  (31 pages)](docs/AD_Exam.pdf)
+* Papercode
+* Exam summary
