@@ -1,5 +1,5 @@
 # Astat (Applied Statistics for Data Science)
-This folder contains all the assets from the Astat module. It has some content covered by Yanis's summary found [here](https://yanisdeplazes.github.io/Digital-Ideation/24HS/ASTAT/astat-summary.pdf). I have my own summary which contains my lecture notes and my preperation for the final exam. It can be accessed [here](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/ASTAT-compressed.pdf). 
+This folder contains all the assets from the Astat module. It has some content covered by Yanis's summary found [here](https://yanisdeplazes.github.io/Digital-Ideation/24HS/ASTAT/astat-summary.pdf). I have my own summary which contains my lecture notes and my preperation for the final exam. It can be accessed [here](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/ASTAT-compressed.pdf).
 
 
 **Men4:** The aim of this learning portfolio is to prepare me for the exam as I failed the admission last semester. The mentoring helps me to make time for ASTAT every week and to familiarise myself with the lectures in greater depth (and also to work through them). My mentor accompanies me in this process, guides me upon questions and gives me confidence in my abilities. The "Aufgabe zum Verständnis der Vorlesung" is picked out of a few and just representative.
