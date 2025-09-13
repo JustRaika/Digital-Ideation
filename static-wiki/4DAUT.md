@@ -7,6 +7,7 @@ The module was about the basics of 3D modelling and animation with Cinema 4D. We
 ### My own renders
 ![First Project ever in 3D](./pics/Projekt2Render_V2.png)
 ![Abbelshorley - modelled the label and the can](./pics/Abbelshorley_v7.jpg)
+![Abbelshorley - label](./pics/RühlLabel_V2.png)
 ![Playing around with the toon shader](./pics/toon.png)
 
 ### Final group project - an animated short film
