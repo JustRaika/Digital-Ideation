@@ -2,20 +2,20 @@
 This folder contains all the assets from the STORY module.
 
 ## Content
-- [22.09.2025 - Beispiele und Inspirationen V1](#general-project)
-  - [Übung 1 - Webcam Beobachtung](#problem-statement)
-- [29.09.2025 - Beispiele und Inspirationen V2](#general-project)
-- [06.10.2025 - Feedbackrunde zu ersten Ideen der eigenen Arbeit](#general-project)
-- [13.10.2025 - Figuren und Szenerien entwickeln](#general-project)
-- [20.10.2025 - Storyworlds](#general-project)
-- [27.10.2025 - Dialog](#general-project)
-- [03.11.2025 - Non-Lineares Erzählen](#general-project)
-- [10.11.2025 - Visual Storytelling](#general-project)
-- [17.11.2025 - Sound](#general-project)
-- [24.11.2025 - Feedbackrunde zur eigenen Arbeit](#general-project)
-- [01.12.2025 - Arbeit am Projekt](#general-project)
-- [08.12.2025 - Gemeinsam einen Film schauen und besprechen](#general-project)
-- [15.12.2025 - Präsentation der eigenen Arbeit](#general-project)
+- [22.09.2025 - Beispiele und Inspirationen V1](#beispiele-und-inspirationen-v1)
+  - [Übung 1 - Webcam Beobachtung](#übung-1---webcam-beobachtung)
+- [29.09.2025 - Feedbackrunde zu ersten Ideen der eigenen Arbeit](#feedbackrunde-zu-ersten-ideen-der-eigenen-arbeit)
+- [06.10.2025 - Beispiele und Inspirationen V2](#beispiele-und-inspirationen-v2)
+- [13.10.2025 - Figuren und Szenerien entwickeln](#figuren-und-szenerien-entwickeln)
+- [20.10.2025 - Storyworlds](#storyworlds)
+- [27.10.2025 - Dialog](#dialog)
+- [03.11.2025 - Non-Lineares Erzählen](#non-lineares-erzählen)
+- [10.11.2025 - Visual Storytelling](#visual-storytelling)
+- [17.11.2025 - Sound](#sound)
+- [24.11.2025 - Feedbackrunde zur eigenen Arbeit](#feedbackrunde-zur-eigenen-arbeit)
+- [01.12.2025 - Arbeit am Projekt](#arbeit-am-projekt)
+- [08.12.2025 - Gemeinsam einen Film schauen und besprechen](#gemeinsam-einen-film-schauen-und-besprechen)
+- [15.12.2025 - Präsentation der eigenen Arbeit](#präsentation-der-eigenen-arbeit)
 
 
 ### 22.09.2025 - Beispiele und Inspirationen V1
@@ -54,8 +54,12 @@ e) `Was ist gut an der Hauptfigur? Was gefällt ihr an sich am besten? Was magst
 
 f) `Beschreibe die Welt in der deine Hauptfigur lebt. Wie ist das politische System? Wer oder was regiert? Wie sieht es dort aus und wie bewegt sich deine Figur durch diese Welt?` In dieser Welt regiert alles, was viel Geld hat. Das Land ist durch Geldsorgen getrieben. Wer Geld hat, hat Macht. Es herrscht zwar Demokratie, aber die ist nur scheinheilig.
 
-### 29.09.2025 - Beispiele und Inspirationen V2
-### 06.10.2025 - Feedbackrunde zu ersten Ideen der eigenen Arbeit
+### 29.09.2025 - Feedbackrunde zu ersten Ideen der eigenen Arbeit
+Heute hatten wir ein Ideen-Speeddating um Personen zu finden, die zu unseren Konzepten passen. Manche Personen arbeiten auch alleine, weil sie an persönlichen Projekten arbeiten, wie z.B die Geschichte ihrer Grossmutter oder persönliche Erfahrungen zu Isolation. 
+
+* Webseite, die gut Daten visualisert aber trotzdem ein gutes UX und Storytelling hat. [Hier geht zur Seite](https://thepudding.co/)
+
+### 06.10.2025 - Beispiele und Inspirationen V2
 ### 13.10.2025 - Figuren und Szenerien entwickeln
 ### 20.10.2025 - Storyworlds
 ### 27.10.2025 - Dialog
