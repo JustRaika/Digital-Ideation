@@ -59,6 +59,13 @@ Heute hatten wir ein Ideen-Speeddating um Personen zu finden, die zu unseren Kon
 
 * Webseite, die gut Daten visualisert aber trotzdem ein gutes UX und Storytelling hat. [Hier geht zur Seite](https://thepudding.co/)
 
+#### Übung 2 - Beschreibe einen Ort, den du sehr gut kennst und zeichne ein Bild einer anderen Ortsbeschreibung 
+a) Draussen hängt der Mond bereits hoch am Himmel, drinnen liegen die Räume in gedämpftem Licht. Ab und zu klirrt noch irgendwo eine Gewichtsscheibe an eine Andere, doch meistens ist das Gym um diese Uhrzeit schon verlassen. Einzig die Playlist läuft lautstark im Loop und untermalt die Szenarie mit schlechtem Soundtrack über die Stille – der perfekte Zeitpunkt, die Welt draussen einmal auf Pause zu setzen und sich auf den eigenen Atem und die eigenen Bewegungen zu fokussieren.
+Die Maschinen stehen still, nur manchmal läuft eine ältere Person auf dem Laufband und sammelt ihre Schritte. 
+Und wenn man durch den Raum geht, erzählen allein die offenen Garderobenschränke von dem, was hier vor ein paar Stunden noch voller Leben war.
+
+b) 
+
 ### 06.10.2025 - Beispiele und Inspirationen V2
 ### 13.10.2025 - Figuren und Szenerien entwickeln
 ### 20.10.2025 - Storyworlds
