@@ -17,6 +17,10 @@ This folder contains all the assets from the STORY module.
 - [08.12.2025 - Gemeinsam einen Film schauen und besprechen](#gemeinsam-einen-film-schauen-und-besprechen)
 - [15.12.2025 - Präsentation der eigenen Arbeit](#präsentation-der-eigenen-arbeit)
 
+### Eigenes Projekt
+* `What is it about? -` Mein Modulprojekt wird...
+
+* [Process Documentation (Miro Board)](linktbd)
 
 ### 22.09.2025 - Beispiele und Inspirationen V1
 ![Web Storytelling mit rotem Faden](./pics/Story1.png)
@@ -57,7 +61,24 @@ f) `Beschreibe die Welt in der deine Hauptfigur lebt. Wie ist das politische Sys
 ### 29.09.2025 - Feedbackrunde zu ersten Ideen der eigenen Arbeit
 Heute hatten wir ein Ideen-Speeddating um Personen zu finden, die zu unseren Konzepten passen. Manche Personen arbeiten auch alleine, weil sie an persönlichen Projekten arbeiten, wie z.B die Geschichte ihrer Grossmutter oder persönliche Erfahrungen zu Isolation. 
 
-* Webseite, die gut Daten visualisert aber trotzdem ein gutes UX und Storytelling hat. [Hier geht zur Seite](https://thepudding.co/)
+Webseite, die gut Daten visualisert aber trotzdem ein gutes UX und Storytelling hat. [Hier geht zur Seite](https://thepudding.co/)
+
+![AUGMENTED REALITY](./pics/Story8.png)
+Eine Geschichte mit Zeichnungen, die mit einer kamera gescann werden kann und dann in AR erlebt werden kann.
+[Hier geht es zur Demo](https://modernpolaxis.com/index.html)
+
+![AR Game](./pics/Story9.png)
+An interactive app retelling of acclaimed author Joy Kogawa’s story about Japanese internment in WWII.
+
+![VR Erfahrung als Immigrant](./pics/Story10.png)
+
+![Eine echte Wand von der Grenze zwischen Mexiko und der USA](./pics/Story11.png)
+
+![So sieht die VR Welt aus](./pics/Story12.png)
+
+This immersive experience explores the human condition of immigrants and refugees.
+[Mehr Bilder und Infos hier](https://phi.ca/en/carne-y-arena/)
+
 
 #### Übung 2 - Beschreibe einen Ort, den du sehr gut kennst und zeichne ein Bild einer anderen Ortsbeschreibung 
 a) Draussen hängt der Mond bereits hoch am Himmel, drinnen liegen die Räume in gedämpftem Licht. Ab und zu klirrt noch irgendwo eine Gewichtsscheibe an eine Andere, doch meistens ist das Gym um diese Uhrzeit schon verlassen. Einzig die Playlist läuft lautstark im Loop und untermalt die Szenarie mit schlechtem Soundtrack über die Stille – der perfekte Zeitpunkt, die Welt draussen einmal auf Pause zu setzen und sich auf den eigenen Atem und die eigenen Bewegungen zu fokussieren.
