@@ -74,5 +74,6 @@ Fragmente und Fragmente Sammelbox als auch Roadmap.
 
 #### Planung Sprint 2
 ![Neuer Stand Kanban Board](./pics/Dipro7.png)
+
 ---
 ### Week 3
