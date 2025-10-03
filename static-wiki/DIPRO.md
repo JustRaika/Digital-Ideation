@@ -72,6 +72,10 @@ Fragmente und Fragmente Sammelbox als auch Roadmap.
 
 `Retrospektive:` Ich finde es gut, dass du dir die Meinung verschiedener Dozenten einholen willst und denke persönlich, dass Susanne noch von grosser Hilfe sein könnte. Ich habe schon auf deinem Miro Board gesehen, dass sie euch im Storytelling Modul über den AR-Comic erzählt hat.Eine Überlegung wäre es vielleicht auch das Storytelling Modul mit Dipro zu verbinden?
 
+*By Yanis*
+
+Ich finde es toll, dass du ein Journal führst, aber da wir nicht so viel Zeit haben, empfehle ich dir, dich vorerst auf eine Sache zu konzentrieren. Probier es einfach mal aus, es sei denn, du bist dir schon sicher dass du zeitlich drin bist, dann würde ich mich an den Plan halten. Wir haben dieses Thema bereits besprochen und ich finde es großartig. Ich bin gespannt, was dabei herauskommt.
+
 #### Planung Sprint 2
 ![Neuer Stand Kanban Board](./pics/Dipro7.png)
 
