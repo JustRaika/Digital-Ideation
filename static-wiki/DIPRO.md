@@ -4,11 +4,16 @@ This folder contains all the assets from the DIPRO module.
 ## Content
 - [Project Into The Unknown](#project-into-the-unknown)
 - [Weekly Sprint Logs](#weekly-sprint-logs)
+    - [Week 1](#week-1)
+    - [Week 2](#week-2)
+    - [Week 3](#week-3)
 
 ## Project Into The Unknown
-* `What is it about? -` Into The Unknown is an exploaration of my mathematical abilities and my creativity. The project is a digital interactive narrative that takes the user on a journey through a surreal landscape filled with abstract shapes and patterns. The user can interact with the environment by clicking on different elements, which will trigger animations and sound effects. The project is designed to be immersive and engaging, allowing the user to explore and discover new things as they navigate through the world.
-
 * [Process Documentation (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+
+<!-- 
+* `What is it about? -` Into The Unknown is an exploaration of my mathematical abilities and my creativity. The project is a digital interactive narrative that takes the user on a journey through a surreal landscape filled with abstract shapes and patterns. The user can interact with the environment by clicking on different elements, which will trigger animations and sound effects. The project is designed to be immersive and engaging, allowing the user to explore and discover new things as they navigate through the world.
+-->
 
 ## Weekly Sprint Logs
 ### Week 1
@@ -36,9 +41,10 @@ Bereits zusammengestellt aus etlichen weiteren Post-its.
 #### Besprechung
 Ich muss mich nächste Woche noch auf den Weg machen einen Besprechungspartner zu finden. Das ist etwas schwierig diese Woche mit der Popcon (Jenny und Remo sind weg) als auch Freitagabend....
 
-#### Planung Sprint 2
 ![Opening my personal Pandora's box](./pics/Dipro4.png)
 
+
+---
 ### Week 2
 #### Sprint-Review
 `Ergebnisse der Woche:` Miro Board organsiert, Task Overview korrigiert nach PROJ, Fragmente Sammlungsfass angefangen zu recherchieren. (Twine? AR? Digital Book?) Roadmap erstellt, die ist aber noch nicht fix. Subthemen definiert, aber die können sich je nach Interessen und Ausrichtung noch anpassen. Habe mir jetzt einmal ein Zeitframe von 2 Wochen pro Fragment gegeben, aber vielleicht ist das auch zu viel?
@@ -60,6 +66,13 @@ Fragmente und Fragmente Sammelbox als auch Roadmap.
 `Was soll so bleiben:` Die Ideen, auch wenns ein Flickenteppich ist. Dranbleiben!
 
 #### Besprechung
-Lorem Ipsum
+*By Jennifer*
+
+`Ergebnisse:` Persönlich mag ich Mathe ganz und gar nicht. Aus diesem Grund finde ich es umso beeindruckender, dass du ein Projekt rund um das Thema Mathe erstellen möchtest. Als jemand, der auch ein grosser Fan von Storytelling ist, kann ich mir gut vorstellen, dass das Projekt es schaffen kann Personen wie mir, die durch Schulischen Stress eine Abneigung gegen Mathematik entwickelt haben einen neuen, besseren Blickwinkel auf das Thema zu geben.Ich mag,  dass du das Projekt interaktiv gestalten möchtest und bin gespannt zu sehen für welches Medium du dich entscheiden wirst!
+
+`Retrospektive:` Ich finde es gut, dass du dir die Meinung verschiedener Dozenten einholen willst und denke persönlich, dass Susanne noch von grosser Hilfe sein könnte. Ich habe schon auf deinem Miro Board gesehen, dass sie euch im Storytelling Modul über den AR-Comic erzählt hat.Eine Überlegung wäre es vielleicht auch das Storytelling Modul mit Dipro zu verbinden?
 
 #### Planung Sprint 2
+![Neuer Stand Kanban Board](./pics/Dipro7.png)
+---
+### Week 3
