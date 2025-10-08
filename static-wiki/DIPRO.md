@@ -1,15 +1,18 @@
 # DIPRO (Digital Project: Supercluster !Daten (Spiel) & Zeit)
-This folder contains all the assets from the DIPRO module. 
+This folder contains all assets from the DIPRO module. It is an artistic research project where I explore my relationship with mathematics and the way I'm thinking through various fragments.
 
 ## Content
-- [Project Into The Unknown](#project-into-the-unknown)
+- [Project "Ce n'est pas des maths."](##project-"ce-n'est-pas-des-maths.")
 - [Weekly Sprint Logs](#weekly-sprint-logs)
     - [Week 1](#week-1)
     - [Week 2](#week-2)
     - [Week 3](#week-3)
+    - [Week 4](#week-4)
+    
 
-## Project Into The Unknown
+## Project "Ce n'est pas des maths."
 * [Process Documentation (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+* [Inspiration: Module "Beautiful Mathematics"]()
 
 <!-- 
 * `What is it about? -` Into The Unknown is an exploaration of my mathematical abilities and my creativity. The project is a digital interactive narrative that takes the user on a journey through a surreal landscape filled with abstract shapes and patterns. The user can interact with the environment by clicking on different elements, which will trigger animations and sound effects. The project is designed to be immersive and engaging, allowing the user to explore and discover new things as they navigate through the world.
@@ -81,3 +84,31 @@ Ich finde es toll, dass du ein Journal führst, aber da wir nicht so viel Zeit h
 
 ---
 ### Week 3
+#### Sprint-Review
+`Ergebnisse der Woche:` Checkin mit Dragica, erneutes Abstecken der Arbeit. Entschlossen, dass ich mich nicht auf die Fragment Sammelbox fokussieren möchte sondern einfach irgendwo anfange sollte mit dem, was ich schon kenne (aus Beautiful Mathemathics) mit der Technik, die ich bereits kenne und daraus die Parameter tweake und neue Wege suche. Bin noch über mathematische Visualisationen zu Markov Chains, Analysis und Algorithmen gestolpert. Habe meine Rasperry Pi Kit gefunden und noch etwas recherchiert, ob ich eine Fragment Sammelbox daraus machen könnte, aber habe nicht zu viel Zeit darin investiert. Habe mein Touchdesigner aktualisiert, das "Getting started with Python"-Tutorial durchgemacht als auch p5js eingerichtet und mich wieder mit den Basics etwas auseinandergesetzt. Hab meine alten Matbf projects hervorgeholt und etwas studiert.
+
+
+#### Retrospektive
+`Was lief gut:` Das Gespräch mit Dragica hat mir geholfen. Ich komme voran und bin endlich "in der Tastatur", meine Umgebungen sind ready. Ich fühle mich nicht mehr lost. Es ist ein artistic research als auch Kennenlernen meiner Denkweise und Arbeitsweise. Das nimmt mir den Druck mich mit Anderen zu vergleichen, die ein fixes Goal haben.
+
+`Was lief nicht gut:` Ich habe immernoch kein Fragment, obwohl ich bis Ende Woche mal etwas haben wollte.
+
+`Was muss sich ändern:` Ich muss weniger denken und mehr erstellen!
+`Was soll so bleiben:` Eine explorative Arbeit, kein Produktdenken. Auch der Arbeitsprozess ist Teil der Exploration - wie denke ich, wie arbeite ich?
+
+#### Besprechung
+*By Jennifer*
+
+`Ergebnisse:` 
+
+`Retrospektive:`
+
+*By Yanis*
+
+
+
+#### Planung Sprint 2
+![Neuer Stand Kanban Board](./pics/)
+
+---
+### Week 4
