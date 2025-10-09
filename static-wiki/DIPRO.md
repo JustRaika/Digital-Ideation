@@ -87,6 +87,12 @@ Ich finde es toll, dass du ein Journal führst, aber da wir nicht so viel Zeit h
 #### Sprint-Review
 `Ergebnisse der Woche:` Checkin mit Dragica, erneutes Abstecken der Arbeit. Entschlossen, dass ich mich nicht auf die Fragment Sammelbox fokussieren möchte sondern einfach irgendwo anfange sollte mit dem, was ich schon kenne (aus Beautiful Mathemathics) mit der Technik, die ich bereits kenne und daraus die Parameter tweake und neue Wege suche. Bin noch über mathematische Visualisationen zu Markov Chains, Analysis und Algorithmen gestolpert. Habe meine Rasperry Pi Kit gefunden und noch etwas recherchiert, ob ich eine Fragment Sammelbox daraus machen könnte, aber habe nicht zu viel Zeit darin investiert. Habe mein Touchdesigner aktualisiert, das "Getting started with Python"-Tutorial durchgemacht als auch p5js eingerichtet und mich wieder mit den Basics etwas auseinandergesetzt. Hab meine alten Matbf projects hervorgeholt und etwas studiert.
 
+![Fragment Roadmap mit Gedanken](./pics/Dipro9.png)
+Fragment Roadmap mit Gedanken ud Fokuspunkten.
+
+![Toolbox und Mathbox](./pics/Dipro10.png)
+Neu dazugekommen ist die Mathbox und die Toollbox.
+
 
 #### Retrospektive
 `Was lief gut:` Das Gespräch mit Dragica hat mir geholfen. Ich komme voran und bin endlich "in der Tastatur", meine Umgebungen sind ready. Ich fühle mich nicht mehr lost. Es ist ein artistic research als auch Kennenlernen meiner Denkweise und Arbeitsweise. Das nimmt mir den Druck mich mit Anderen zu vergleichen, die ein fixes Goal haben.
@@ -109,7 +115,7 @@ Ich finde es toll, dass du ein Journal führst, aber da wir nicht so viel Zeit h
 
 
 #### Planung Sprint 2
-![Neuer Stand Kanban Board](./pics/)
+![Neuer Stand Kanban Board](./pics/Dipro8.png)
 
 ---
 ### Week 4
