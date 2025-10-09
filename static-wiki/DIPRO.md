@@ -94,14 +94,15 @@ Ich finde es toll, dass du ein Journal führst, aber da wir nicht so viel Zeit h
 `Was lief nicht gut:` Ich habe immernoch kein Fragment, obwohl ich bis Ende Woche mal etwas haben wollte.
 
 `Was muss sich ändern:` Ich muss weniger denken und mehr erstellen!
+
 `Was soll so bleiben:` Eine explorative Arbeit, kein Produktdenken. Auch der Arbeitsprozess ist Teil der Exploration - wie denke ich, wie arbeite ich?
 
 #### Besprechung
 *By Jennifer*
 
-`Ergebnisse:` 
+`Ergebnisse:` Das Mindset "don't think, just do it", das du diese Woche ergattern konntest ist finde ich die beste Strategie, die es gibt. Du hast diese Woche sehr viel organisiert und recherchiert und ich hoffe, dass dir das und dein neu gefundenes Mindset dabei helfen können, in den kommenden Tagen viel Gutes zu lernen und zu kreieren!
 
-`Retrospektive:`
+`Retrospektive:` Gute Retrospektive, mit erreichbaren Zielen. Sehr schön!
 
 *By Yanis*
 
