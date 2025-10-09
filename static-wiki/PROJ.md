@@ -81,3 +81,4 @@ Diese User Stories helfen dabei, die Aufgaben so zu formulieren, dass sie für a
 
 
 ## PROJ PDF (Erstellt von einem DI Vorgänger-Jahrgang)
+[Allgemeine Zusammenfassung hier öffnen](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/PJM Karten 2025.pdf)
