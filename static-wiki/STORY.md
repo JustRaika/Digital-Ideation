@@ -85,9 +85,26 @@ a) Draussen hängt der Mond bereits hoch am Himmel, drinnen liegen die Räume in
 Die Maschinen stehen still, nur manchmal läuft eine ältere Person auf dem Laufband und sammelt ihre Schritte. 
 Und wenn man durch den Raum geht, erzählen allein die offenen Garderobenschränke von dem, was hier vor ein paar Stunden noch voller Leben war.
 
-b) 
+b) Zeichne eine andere Ortbeschreibung.
+
+![Ortbeschreibung Zeichnung](./pics/Story14.png)
+
+
+c) Nun versuche aufgrund eines Ortes eine Geschichte zu erzählen. Ausgangsbild:
+
+![Ausgangsbild](./pics/Story13.jpg)
+
+Ich stehe in einer Höhle. Vor mir ziehen sich feste Wurzeln um den Eingang, darüber hängt ein Blätterdach. In der Ferne zieht sich ein weite Wiese hin. Es ist still. Nur das Zwitschern der Vögel und das Rascheln der Blätter sind zu hören. Ich atme tief ein und aus.
 
 ### 06.10.2025 - Beispiele und Inspirationen V2
+Geschichten leben von Emotionen. Wenn wir bspw. Titanic anschauen, dann schauen wir nicht, weil wir in erster Linie den Schiffsuntergang sehen wollen, sondern weil wir die Emotionen sehen wollen. 
+
+Auch die Identifikation mit Protagonisten ist wichtig. Wenn wir uns mit den Charakteren identifizieren, können wir ihre Emotionen und Erfahrungen besser nachvollziehen und erleben.
+
+Wo ist der emotionale Kern der Geschichte? So kommt man zum Kern. Das nennt sich `Prämise`. 
+
+Oft haben Geschichten auch Antagonisten. Diese sind nicht immer böse, sondern können auch einfach Gegenspieler sein, die den Protagonisten herausfordern. Sie wollen meistens das Gegenteil von dem, was der Protagonist will.
+
 ### 13.10.2025 - Figuren und Szenerien entwickeln
 ### 20.10.2025 - Storyworlds
 ### 27.10.2025 - Dialog
