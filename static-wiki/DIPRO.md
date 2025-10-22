@@ -8,15 +8,23 @@ This folder contains all assets from the DIPRO module. It is an artistic researc
     - [Week 2](#week-2)
     - [Week 3](#week-3)
     - [Week 4](#week-4)
+    - [Week 5](#week-5)
+    - [Week 6](#week-6)
     
 
 ## Project "Ce n'est pas des maths."
 * [Process Documentation (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
 * [Inspiration: Module "Beautiful Mathematics"]()
 
-<!-- 
-* `What is it about? -` Into The Unknown is an exploaration of my mathematical abilities and my creativity. The project is a digital interactive narrative that takes the user on a journey through a surreal landscape filled with abstract shapes and patterns. The user can interact with the environment by clicking on different elements, which will trigger animations and sound effects. The project is designed to be immersive and engaging, allowing the user to explore and discover new things as they navigate through the world.
--->
+ `Why the title? -` Französisch ist auch eine Sprache, die nicht sonderlich in Beliebtheit badet. So verhält es sich mit Mathematik auch.
+
+"Ceci n'est pas des maths." ist eine Anspielung auf René Magrittes berühmtes Gemälde "Ceci n'est pas une pipe" (Dies ist keine Pfeife). Das Gemälde zeigt ein Bild einer Pfeife mit der Unterschrift darunter, dass es sich nicht um eine echte Pfeife handelt, sondern nur um eine Darstellung davon. Ähnlich möchte ich mit meinem Projekt darauf anspielen, dass es sich hier nicht um die Mathematik selbst handelt, sondern eine künstlerische Interpretation davon.
+
+ `What is it about? -` Zu Beginn wollte ich einen Weg finden, Mathematik und logisches Denken für mich erfahrbar zu machen. Als Person, die während der Schulzeit mit Mathe sehr zu kämpfen hatte, war mein Zugang zu mathematischen Lösungsverfahren oft blockiert, gleichzeitig aber hat mich das ästhetische und emotionale Potenzial von Mustern, Gleichungen und Strukturen fasziniert. Ich wollte Mathematik nicht lösen, sondern erleben mit den Inhalten, die ich im Studium gelernt habe oder die mich sonst faszinierten. 
+
+Mich interessierte, wie sich mathematische Prinzipien – z.B. Rekursion, Chaos oder Ordnung – in visuelle, organische Formen übersetzen lassen, die ich als "organische Person" auch verstehe. So entstand die Idee, Fragmente zu schaffen: kleine, lebendige Experimente, die meine Denkweise und Wahrnehmung widerspiegeln, ohne auf ein konkretes Endprodukt abzuzielen.
+
+
 
 ## Weekly Sprint Logs
 ### Week 1
@@ -110,12 +118,44 @@ Neu dazugekommen ist die Mathbox und die Toollbox.
 
 `Retrospektive:` Gute Retrospektive, mit erreichbaren Zielen. Sehr schön!
 
-*By Yanis*
-
-
 
 #### Planung Sprint 2
 ![Neuer Stand Kanban Board](./pics/Dipro8.png)
 
 ---
 ### Week 4
+#### Sprint-Review
+`Ergebnisse der Woche:` Mein Protofragment - ein einfaches L-System - um wieder den Einstieg zu finden, steht. Für mich ist es aber schwierig von 0 anzufangen, weil ich nicht **genau** weiss was ich am Ende möchte. Es ist für mich einfacher bereits mit dem weiter zu arbeiten, was man hat und das weiterentwickeln. Nur meine Gedanken. 
+
+Diese Woche habe ich noch endlich die Inputs von Gordan und Sebastian abgeholt. Ich habe mir Notizen gemacht und muss meine Gedanken nochmals neu sortieren, gerade im Hinblick der Vorstellung das Projekt weiter in den Bachelor zu ziehen. Ich muss für mich meine Kernfrage konkretisieren und abstecken, was ich genau versuche herauszufinden. **Wann habe ich für mich "den Zugang gefunden"?**
+
+Ich merke, dass mich zurzeit "Generative Art" mehr abholen kann als "Mathematical Art", weil ich dazu einfach bereits  durch AD einen Zugang habe
+
+Ich habe zwischendurch auch noch weiterhin Research gemacht und ein paar Bücher und Webseiten vermerkt als auch mein Miro um ein "Generative Methods Box" ergänzt. Ich denke, ich werde den Research auch bündeln müssen in meiner Fragmentsammelbox.
+
+Ach und ich bin zurzeit an meinem nächsten Fragment: eine Kombi aus dem Collatz Problem (das ja Ordnung hat mit seiner Zahlenfolge) mit etwas Chaos Gleichung (bringt Unordnung rein) und dann habe ich das Ganze noch in das Polarkoordinatensystem abgebildet, damit nicht nur ein chaotischer Haarballen entsteht. Im nächsten Schritt möchte ich das fertigstellen und dann mein L-System nehmen und weiterkombinieren und schauen, was ich daraus machen kann.
+
+![Collatz Gleichung mit Chaos Theorie](./pics/Dipro11.png)
+Erste Ansätze der Collatz Gleichung mit Chaos Theorie.
+
+![Collatz x Chaos x Trigonometrie](./pics/Dipro12.png)
+Collatz x Chaos x Trigonometrie im Polarkoordinatensystem.
+
+
+#### Retrospektive
+`Was lief gut:` Meine Präsentation. Ich habe meine Vision irgendwie rüberbringen können und auch einiger meiner Klasse abholen können. Es freut mich, wenn ich Leute dafür begeistern kann!
+
+`Was lief nicht gut:` Das Gespräch mit Gordan. Ich glaube, für ihn ist das Projekt zu abstrakt. Er hat mich auf einen spezifischen Output gepusht, den ich für eine spezifische Menschengruppe machen sollte.
+
+`Was muss sich ändern:` Muss langsam die Sammelbox aufbauen, weil ich kann nicht einfach mein Miro abgeben. Ich sollte meinen Research büscheln und meine Erkenntnisse.
+
+`Was soll so bleiben:` Ich will noch mehr Fragmente machen und  mich ehrlich gesagt weniger darum kümmern ständig allen zu erklären, was ich genau mache und das zugänglich für alle Dozierenden zu machen.
+
+#### Besprechung
+Diese Woche haben wir uns entschieden, die Besprechungen wegzulassen.
+
+#### Planung Sprint 2
+![Neuer Stand Kanban Board](./pics/Dipro13.png)
+
+---
+### Week 5
