@@ -107,7 +107,18 @@ Oft haben Geschichten auch Antagonisten. Diese sind nicht immer böse, sondern k
 
 ### 13.10.2025 - Figuren und Szenerien entwickeln
 ### 20.10.2025 - Storyworlds
+Übung draussen.
 ### 27.10.2025 - Dialog
+![Digitales Erzählen](./pics/Story15.png)
+Wie Storytelling Vorbereitung in einem Videogame ausschauen kann. 
+
+![Kern und Nebenhandlung Kreise](./pics/Story16.png)
+Eine Geschichte kann man sich als Kreis vorstellen mit mehreren kleinen Kreisen darin. 
+
+Story vs Plot: Story ist eine chronologische Serie von Handlungen, die andere bedingen. Plot ist die Ordnung der Handlungen, wie sie uns erzählt werden.
+
+Es gibt diverse Erzählstrukturen, z.B die klassische lineare Erzählstruktur, Hypertext, konzentrische Erzählstruktur, elastische Erzählstruktur, parallele Erzählstruktur, verzweigte Erzählstruktur. 
+
 ### 03.11.2025 - Non-Lineares Erzählen 
 ### 10.11.2025 - Visual Storytelling
 ### 17.11.2025 - Sound

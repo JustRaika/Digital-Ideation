@@ -52,8 +52,8 @@ Bereits zusammengestellt aus etlichen weiteren Post-its.
 #### Besprechung
 Ich muss mich nächste Woche noch auf den Weg machen einen Besprechungspartner zu finden. Das ist etwas schwierig diese Woche mit der Popcon (Jenny und Remo sind weg) als auch Freitagabend....
 
-![Opening my personal Pandora's box](./pics/Dipro4.png)
-
+#### Planung Sprint 2
+![Neuer Stand Kanban Board](./pics/Dipro4.png)
 
 ---
 ### Week 2
@@ -87,7 +87,7 @@ Fragmente und Fragmente Sammelbox als auch Roadmap.
 
 Ich finde es toll, dass du ein Journal führst, aber da wir nicht so viel Zeit haben, empfehle ich dir, dich vorerst auf eine Sache zu konzentrieren. Probier es einfach mal aus, es sei denn, du bist dir schon sicher dass du zeitlich drin bist, dann würde ich mich an den Plan halten. Wir haben dieses Thema bereits besprochen und ich finde es großartig. Ich bin gespannt, was dabei herauskommt.
 
-#### Planung Sprint 2
+#### Planung Sprint 3
 ![Neuer Stand Kanban Board](./pics/Dipro7.png)
 
 ---
@@ -119,7 +119,7 @@ Neu dazugekommen ist die Mathbox und die Toollbox.
 `Retrospektive:` Gute Retrospektive, mit erreichbaren Zielen. Sehr schön!
 
 
-#### Planung Sprint 2
+#### Planung Sprint 4
 ![Neuer Stand Kanban Board](./pics/Dipro8.png)
 
 ---
@@ -154,8 +154,28 @@ Collatz x Chaos x Trigonometrie im Polarkoordinatensystem.
 #### Besprechung
 Diese Woche haben wir uns entschieden, die Besprechungen wegzulassen.
 
-#### Planung Sprint 2
+#### Planung Sprint 5
 ![Neuer Stand Kanban Board](./pics/Dipro13.png)
 
 ---
 ### Week 5
+#### Sprint-Review
+`Ergebnisse der Woche:` Keypoints aus den Inputs von Gordan und Sebastian herausgeschrieben im Hinblick auf DIPRO und auch eine mögliche zukünftge BA. Reflektions-Call mit Chris durchgeführt. Fragmentsammelbox auf Github angefangen aufzubauen, mit Node.js auseinandergesetzt, versuche zurzeit ein Projekt umzubauen, sodass ich meine eigenen Fragmente reinmachen kann und nicht von 0 aufbauen muss. Es funkioniert aber nicht. Und es macht mich wahnsinnig. Es macht mich echt wütend. Nicht einmal Copilot oder ChatGPT helfen sinnvoll.
+
+#### Retrospektive
+`Was lief gut:` Ich habe meine Adminsachen erledigt. Fühlt sich gut an.
+
+`Was lief nicht gut:` Ich hatte diese Woche wieder nur damit verbracht das Projekt abzustecken und alles rundherum machen anstatt die Fragmente selber.
+
+`Was muss sich ändern:` Ich lasse das mit der Fragmentsammelbox am Besten sein und konzentriere mich die Github Page zum Modul auf Vordermann zu bringen. Ich muss auch noch die anderen Beiden Fragmente fertigstellen.
+
+`Was soll so bleiben:` Ich gebe mir Mühe und ich gebe mein Bestes. 
+
+#### Besprechung
+Weggefallen, weil ich von Donnerstag bis Sonntag in Lenzburg gearbeitet habe.
+
+#### Planung Sprint 6
+![Neuer Stand Kanban Board](./pics/Dipro14.png)
+
+---
+### Week 6
