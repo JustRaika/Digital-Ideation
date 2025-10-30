@@ -223,3 +223,18 @@ Weggefallen, weil ich von Donnerstag bis Sonntag in Lenzburg gearbeitet habe.
 #### Besprechung
 
 ## Ressources & Learnings
+* [Mathematics and Art: Mathematical Visualization in Art and Education](https://link.springer.com/book/10.1007/978-3-662-04909-9) - A book by Claude Bruter that explores the intersection of mathematics and art, showcasing various mathematical concepts through visual representations.
+* [The Nature of Code](https://natureofcode.com/) - A book by Daniel Shiffman that explores the concepts of simulating natural systems using code, including topics like physics, biology, and complexity.
+* [Generative Gestaltung](http://www.generative-gestaltung.de/2/) - A book and online resource that provides an introduction to generative design using programming languages like Processing and p5.js.
+* [Mathematical Art Gallery](https://gallery.bridgesmathart.org/) - An online gallery showcasing a wide range of mathematical art.
+* [The Book of Shaders](https://thebookofshaders.com//) - An online resource that teaches the fundamentals of GLSL shaders through interactive examples and explanations.
+
+More ressources and learnings can be found on my [Miro Board.](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+
+> Ich habe begonnen, Vertrauen in meine mathematischen Fähigkeiten zu entwickeln – auch wenn sie nicht klassisch-logisch Sinn sind.
+
+> Ich habe eine Basis für mich geschaffen, in dem ich weiterforschen, reflektieren und wachsen kann.
+
+> Mich interessiert nicht Mathe, sondern die Zusammenhänge dahinter.
+
+> Ich habe gelernt, dass mein Denken kombinatorisch funktioniert: Ich brauche Material, auf das ich reagieren kann, statt bei Null zu beginnen.
