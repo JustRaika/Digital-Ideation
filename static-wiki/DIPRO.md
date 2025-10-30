@@ -1,32 +1,61 @@
 # DIPRO (Digital Project: Supercluster !Daten (Spiel) & Zeit)
-This folder contains all assets from the DIPRO module. It is an artistic research project where I explore my relationship with mathematics and the way I'm thinking through various fragments.
+This folder contains all assets from the DIPRO module. It is an artistic research project where I explore my relationship with mathematics and the way I'm thinking through various approaches. One approach was to create fragments. Another approach was to document my weekly progress and reflection about my progress in sprint logs. The third approach was to gather feedback from mentors and peers to refine my project direction. Lastly, I researched various mathematical concepts and artistic techniques which led me to the creation of a plug-and-play-sandbox environment.
+
+The final output is a collection of fragments and a documentation of my thoughts and process as well as a sandbox environment to explore further.
 
 ## Content
-- [Project "Ce n'est pas des maths."](##project-"ce-n'est-pas-des-maths.")
-- [Weekly Sprint Logs](#weekly-sprint-logs)
+- [Content](#content)
+- [Project "Ce n'est pas des maths."]( #project-ce-nest-pas-des-maths )
+- [About "Ce n'est pas des maths."]( #about-ce-nest-pas-des-maths )
+- [Fragments](#fragments)
+- [Toolbox](#toolbox)
+- [Weekly Sprint Logs (Process Journal)](#weekly-sprint-logs-process-journal)
     - [Week 1](#week-1)
     - [Week 2](#week-2)
     - [Week 3](#week-3)
     - [Week 4](#week-4)
     - [Week 5](#week-5)
     - [Week 6](#week-6)
+- [Ressources & Learnings](#ressources--learnings)
     
-
 ## Project "Ce n'est pas des maths."
-* [Process Documentation (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
-* [Inspiration: Module "Beautiful Mathematics"]()
+* [Process and sandbox (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+<!-- * [Inspiration: Module "Beautiful Mathematics (tbd)"]()
+* [Fragment Sammelbox (tbd)]() -->
 
+## About "Ce n'est pas des maths."
  `Why the title? -` Französisch ist auch eine Sprache, die nicht sonderlich in Beliebtheit badet. So verhält es sich mit Mathematik auch.
 
-"Ceci n'est pas des maths." ist eine Anspielung auf René Magrittes berühmtes Gemälde "Ceci n'est pas une pipe" (Dies ist keine Pfeife). Das Gemälde zeigt ein Bild einer Pfeife mit der Unterschrift darunter, dass es sich nicht um eine echte Pfeife handelt, sondern nur um eine Darstellung davon. Ähnlich möchte ich mit meinem Projekt darauf anspielen, dass es sich hier nicht um die Mathematik selbst handelt, sondern eine künstlerische Interpretation davon.
+"Ceci n'est pas des maths." ist eine Anspielung auf René Magrittes Gemälde "Ceci n'est pas une pipe" (Dies ist keine Pfeife). Das Gemälde zeigt ein Bild einer Pfeife mit der Unterschrift darunter, dass es sich nicht um eine echte Pfeife handelt, sondern nur um eine Darstellung davon. Ähnlich möchte ich darauf anspielen, dass es sich hier nicht um die Mathematik selbst handelt, sondern eine künstlerische Exploration davon.
 
- `What is it about? -` Zu Beginn wollte ich einen Weg finden, Mathematik und logisches Denken für mich erfahrbar zu machen. Als Person, die während der Schulzeit mit Mathe sehr zu kämpfen hatte, war mein Zugang zu mathematischen Lösungsverfahren oft blockiert, gleichzeitig aber hat mich das ästhetische und emotionale Potenzial von Mustern, Gleichungen und Strukturen fasziniert. Ich wollte Mathematik nicht lösen, sondern erleben mit den Inhalten, die ich im Studium gelernt habe oder die mich sonst faszinierten. 
+---
+ `What is it about? -` Mit dem Input am Anfang des Moduls über das Graben in sich selbst und was einem wirklich wichtig ist, als auch etwas zu Patterns (z.B in Musik) und Iterationen (z.B in Systemen), wollte ich mich mit meiner eigenen Beziehung zu Mathematik auseinandersetzen. Ich wollte einen Weg finden, Mathematik und logisches Denken für mich erfahrbar zu machen, weil ich während der Schulzeit damit sehr zu kämpfen hatte. Einen klassichen Zugang zur Mathematik hatte ich damit nicht. Gleichzeitig hatte ich schon immer eine gewisse Faszination für die Ästhetik und Schönheit von Mustern, Gleichungen und Strukturen. Es schien mir wie eine Sprache, die ich nicht sprach und nicht sprechen lernen konnte.
+ 
+ Mithilfe der Inhalte, die ich im Studium gelernt habe (Mathematik als auch Tools), entstand die Idee, Fragmente zu schaffen: kleine, lebendige Experimente, die meine Denkweise widerspiegeln, ohne auf ein konkretes Endprodukt abzuzielen. Sozusagen etwas organsiches kreieren, das ich als organische Person auch verstehe.
 
-Mich interessierte, wie sich mathematische Prinzipien – z.B. Rekursion, Chaos oder Ordnung – in visuelle, organische Formen übersetzen lassen, die ich als "organische Person" auch verstehe. So entstand die Idee, Fragmente zu schaffen: kleine, lebendige Experimente, die meine Denkweise und Wahrnehmung widerspiegeln, ohne auf ein konkretes Endprodukt abzuzielen.
+ Weil ich mich schlussendlich mit Fragen wie:
+
+    * Welche Bereiche der Mathematik möchte ich visualisieren und welche lassen sich überhaupt visuell oder auditiv darstellen?
+
+    * Welche Tools und Techniken stehen mir überhaupt zur Verfügung?
+
+    * Wie kann ich meine eigene Denkweise durch diese Fragmente ausdrücken?
+
+    * Wie kann ich die Fragmente so gestalten, dass sie für andere Menschen zugänglich und verständlich sind?
 
 
+auseinadnergesetzt habe und viel Zeit damit verbracht habe, in jegliche Richtungen zu graben, konnte ich Bereiche für mich abstecken, die mich fasziniert haben (z.B Chaos Theorie, Fraktale, Rekursion, Algorithmen). Daraus entstanden ist ein Miro Board, das meinen Prozess dokumentiert und eine Sammlung von Fragmenten, die ich erstellt habe. Zusätzlich habe ich eine Sandbox-Umgebung entwickelt, die es mir ermöglicht, weiterzuforschen. Ich habe Ressorcen gesammelt und eine Art "Toolbox" erstellt, die ich für zukünftige Projekte nutzen kann.
 
-## Weekly Sprint Logs
+## Fragments
+![Collatz x Chaos (Logistic map) x Trigonometry](./pics/Fragment1.png)
+Wir haben hier eine mathematische Gleichung, die Struktur reingibt und Chaos, dass das Unberechenbare wiederspiegelt, wie der Mensch - also etwas organisches. Damit ich keinen Haarballen habe, habe ich das noch mit Trigonometrie etwas zurechtgebogen.
+
+![Collatz x Chaos (Logistic map)](./pics/Fragment2.png)
+Macht Chaos im Winkel, gibt einen Haarballen.
+
+## Toolbox
+
+## Weekly Sprint Logs (Process Journal)
 ### Week 1
 #### Sprint-Review
 `Ergebnisse der Woche:` Ich habe viele Gespräche mit Dozenten, Kommilitonen und ChatGPT geführt und über meine Vorstellungen, Ideen und Ängste geredet. Für mich habe ich das Briefing finalisiert und die Bereiche der Mathematik abgesteckt, die mich interessieren. Nicht zuletzt habe ich den Sprintlog aufgesetzt und ein Kanbanboard mit den ersten Tasks erstellt. Mein Moodboard wächst auch und meine Vision wird klarer für mich.
@@ -179,3 +208,18 @@ Weggefallen, weil ich von Donnerstag bis Sonntag in Lenzburg gearbeitet habe.
 
 ---
 ### Week 6
+#### Sprint-Review
+`Ergebnisse der Woche:`
+
+#### Retrospektive
+`Was lief gut:` 
+
+`Was lief nicht gut:` 
+
+`Was muss sich ändern:` 
+
+`Was soll so bleiben:` 
+
+#### Besprechung
+
+## Ressources & Learnings
