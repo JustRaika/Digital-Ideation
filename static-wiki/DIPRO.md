@@ -1,4 +1,7 @@
 # DIPRO (Digital Project: Supercluster !Daten (Spiel) & Zeit)
+
+![Titelblatt der Arbeit von der Pitch Präsentation](./pics/DiproPitch1.png)
+
 This folder contains all assets from the DIPRO module. It is an artistic research project where I explore my relationship with mathematics and the way I'm thinking through various approaches. One approach was to create fragments. Another approach was to document my weekly progress and reflection about my progress in sprint logs. The third approach was to gather feedback from mentors and peers to refine my project direction. Lastly, I researched various mathematical concepts and artistic techniques which led me to the creation of a plug-and-play-sandbox environment.
 
 The final output is a collection of fragments and a documentation of my thoughts and process as well as a sandbox environment to explore further.
