@@ -24,6 +24,7 @@ The final output is a collection of fragments and a documentation of my thoughts
 * [Process of my artistic research (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
 * [Sandbox (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
 * [Final Presentation PDF](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/DiproPitch.pdf)
+
 <!-- * [Inspiration: Module "Beautiful Mathematics (tbd)"]()
 * [Fragment Sammelbox (tbd)]() -->
 
