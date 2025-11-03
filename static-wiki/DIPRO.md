@@ -8,7 +8,7 @@ The final output is a collection of fragments and a documentation of my thoughts
 
 ## Content
 - [Content](#content)
-- [Project "Ce n'est pas des maths."]( #project-ce-nest-pas-des-maths )
+- [Projectlinks "Ce n'est pas des maths."]( #projectlinks-ce-nest-pas-des-maths )
 - [About "Ce n'est pas des maths."]( #about-ce-nest-pas-des-maths )
 - [Fragments](#fragments)
 - [Toolbox](#toolbox)
@@ -18,11 +18,12 @@ The final output is a collection of fragments and a documentation of my thoughts
     - [Week 3](#week-3)
     - [Week 4](#week-4)
     - [Week 5](#week-5)
-    - [Week 6](#week-6)
 - [Ressources & Learnings](#ressources--learnings)
     
-## Project "Ce n'est pas des maths."
-* [Process and sandbox (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+## Projectlinks "Ce n'est pas des maths."
+* [Process of my artistic research (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+* [Sandbox (Miro Board)](https://miro.com/app/board/uXjVJGySQIA=/?share_link_id=773862506291)
+* [Final Presentation PDF](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/DiproPitch.pdf)
 <!-- * [Inspiration: Module "Beautiful Mathematics (tbd)"]()
 * [Fragment Sammelbox (tbd)]() -->
 
@@ -32,11 +33,15 @@ The final output is a collection of fragments and a documentation of my thoughts
 "Ceci n'est pas des maths." ist eine Anspielung auf René Magrittes Gemälde "Ceci n'est pas une pipe" (Dies ist keine Pfeife). Das Gemälde zeigt ein Bild einer Pfeife mit der Unterschrift darunter, dass es sich nicht um eine echte Pfeife handelt, sondern nur um eine Darstellung davon. Ähnlich möchte ich darauf anspielen, dass es sich hier nicht um die Mathematik selbst handelt, sondern eine künstlerische Exploration davon.
 
 ---
- `What is it about? -` Mit dem Input am Anfang des Moduls über das Graben in sich selbst und was einem wirklich wichtig ist, als auch etwas zu Patterns (z.B in Musik) und Iterationen (z.B in Systemen), wollte ich mich mit meiner eigenen Beziehung zu Mathematik auseinandersetzen. Ich wollte einen Weg finden, Mathematik und logisches Denken für mich erfahrbar zu machen, weil ich während der Schulzeit damit sehr zu kämpfen hatte. Einen klassichen Zugang zur Mathematik hatte ich damit nicht. Gleichzeitig hatte ich schon immer eine gewisse Faszination für die Ästhetik und Schönheit von Mustern, Gleichungen und Strukturen. Es schien mir wie eine Sprache, die ich nicht sprach und nicht sprechen lernen konnte.
+ `What is it about? -` Die Ausgangslage waren Inputs zu folgenden Hauptthemen: Experiment, Metaphern und Daten.
  
- Mithilfe der Inhalte, die ich im Studium gelernt habe (Mathematik als auch Tools), entstand die Idee, Fragmente zu schaffen: kleine, lebendige Experimente, die meine Denkweise widerspiegeln, ohne auf ein konkretes Endprodukt abzuzielen. Sozusagen etwas organsiches kreieren, das ich als organische Person auch verstehe.
+ ![The 3 Horseman of the Module](./pics/Dipro0.png)
+ 
+ Mit dem Input über Patterns, Wiederholungen, Systemkunst & Prozessen, die wachsen, sich verändern und dennoch immer gleich bleiben, habe ich den Mut gefasst, ein Projekt zu starten, das mich persönlich sehr beschäftigt: Meine Beziehung zur Mathematik. Ich wollte einen Weg finden, Mathematik und logisches Denken für mich erfahrbar zu machen, weil ich während der Schulzeit damit sehr zu kämpfen hatte. Einen klassichen Zugang zur Welt der Mathematik hatte ich nicht. Gleichzeitig hatte ich aber schon immer eine gewisse Faszination für die Ästhetik und Schönheit von Mustern, Gleichungen und Strukturen. Es schien mir wie eine Sprache, die ich nicht sprach und nicht sprechen lernen konnte.
+ 
+ Mithilfe der Inhalte, die ich im Studium gelernt habe (Mathematik als auch Tools), entstand die Idee, Fragmente zu schaffen: kleine, lebendige Experimente, die meine Denkweise widerspiegeln, ohne auf ein konkretes Endprodukt abzuzielen. Sozusagen etwas organsiches schaffen, das ich als organische Person auch verstand.
 
- Weil ich mich schlussendlich mit Fragen wie:
+ Weil ich mich schlussendlich mit Fragen wie diesen auseinandergesetzt habe:
 
     * Welche Bereiche der Mathematik möchte ich visualisieren und welche lassen sich überhaupt visuell oder auditiv darstellen?
 
@@ -44,19 +49,35 @@ The final output is a collection of fragments and a documentation of my thoughts
 
     * Wie kann ich meine eigene Denkweise durch diese Fragmente ausdrücken?
 
-    * Wie kann ich die Fragmente so gestalten, dass sie für andere Menschen zugänglich und verständlich sind?
+    * Wie kann ich die Fragmente so gestalten, dass sie für andere Menschen auch zugänglich und verständlich sind?
 
 
-auseinadnergesetzt habe und viel Zeit damit verbracht habe, in jegliche Richtungen zu graben, konnte ich Bereiche für mich abstecken, die mich fasziniert haben (z.B Chaos Theorie, Fraktale, Rekursion, Algorithmen). Daraus entstanden ist ein Miro Board, das meinen Prozess dokumentiert und eine Sammlung von Fragmenten, die ich erstellt habe. Zusätzlich habe ich eine Sandbox-Umgebung entwickelt, die es mir ermöglicht, weiterzuforschen. Ich habe Ressorcen gesammelt und eine Art "Toolbox" erstellt, die ich für zukünftige Projekte nutzen kann.
+und viel Zeit damit verbracht habe, in jegliche Richtungen zu graben, konnte ich Bereiche für mich abstecken, die mich fasziniert haben (z.B Chaos Theorie, Fraktale, Rekursion, Algorithmen). Daraus entstanden ist ein Miro Board, das meinen Prozess dokumentiert und eine Sammlung von Fragmenten, die ich erstellt habe während des Prozesses. Zusätzlich habe ich eine Sandbox-Umgebung entwickelt, die es mir ermöglicht beliebige Inhalte miteinander zu kombinieren und weiterzuforschen. Nicht zuletzt habe ich Ressourcen gesammelt und eine Art "Toolbox" erstellt, die meine zukünftigen Projekte in diese Richtung weitertragen kann.
 
 ## Fragments
 ![Collatz x Chaos (Logistic map) x Trigonometry](./pics/Fragment1.png)
-Wir haben hier eine mathematische Gleichung, die Struktur reingibt und Chaos, dass das Unberechenbare wiederspiegelt, wie der Mensch - also etwas organisches. Damit ich keinen Haarballen habe, habe ich das noch mit Trigonometrie etwas zurechtgebogen.
+Eine mathematische Gleichung, die Struktur reingibt und Chaos in Form einer logistischen Gleichung, dass das Unberechenbare miteinbringt, wie der Mensch - also Organisch. Damit kein Haarballen entsteht, habe ich das noch mit Trigonometrie etwas zurechtgebogen.
 
 ![Collatz x Chaos (Logistic map)](./pics/Fragment2.png)
-Macht Chaos im Winkel, gibt einen Haarballen.
+Der Haarballen, von dem ich zuvor gesprochen habe. Macht basically Chaos im Winkel.
+
+![L-System x Perlin Noise](./pics/Dipro15.png)
+Das L-System ist ein Algorithmus auf formaler Grammatik, der die Regeln vorgibt, wie der Baum gezeichet werden soll. Perlin Noise liefert die Abweichungen, das Organische.
+
+![L-System x Particles](./pics/Dipro16.png)
+L-System mit Partikelsystem, das die Blätter darstellt sollte. Discontinuied, weil ich nicht wusste wohin damit.
+
+![L-System x Particles](./pics/Dipro17.png)
+![L-System x Particles](./pics/Dipro18.png)
+Einfaches L-System per Standardregeln, um wieder in das Coden hineinzukommen. Dieser Code war der Ausgangscode für die vorherigen beiden Iterationen.
+
+![L-System x Particles](./pics/Dipro19.png)
+![L-System x Particles](./pics/Dipro20.png)
+Versuch eines L-Systems in 3D mit p5js und WEBGL. Discontinued, weil ich in ein Produktdenken verfallen bin.
 
 ## Toolbox
+![Eigene Boxen im Bereich Tools, Maths und Generative Methods](./pics/DiproToolbox.png)
+Die Sandbox ist eine Umgebung die während des Projektes über Recherchen entstanden ist. Sie ermöglicht es mir, verschiedene Fragmente und mathematische Konzepte zu kombinieren und etwas Neues zu erschaffen.
 
 ## Weekly Sprint Logs (Process Journal)
 ### Week 1
@@ -209,21 +230,6 @@ Weggefallen, weil ich von Donnerstag bis Sonntag in Lenzburg gearbeitet habe.
 #### Planung Sprint 6
 ![Neuer Stand Kanban Board](./pics/Dipro14.png)
 
----
-### Week 6
-#### Sprint-Review
-`Ergebnisse der Woche:`
-
-#### Retrospektive
-`Was lief gut:` 
-
-`Was lief nicht gut:` 
-
-`Was muss sich ändern:` 
-
-`Was soll so bleiben:` 
-
-#### Besprechung
 
 ## Ressources & Learnings
 * [Mathematics and Art: Mathematical Visualization in Art and Education](https://link.springer.com/book/10.1007/978-3-662-04909-9) - A book by Claude Bruter that explores the intersection of mathematics and art, showcasing various mathematical concepts through visual representations.
