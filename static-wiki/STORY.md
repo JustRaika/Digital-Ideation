@@ -2,16 +2,18 @@
 This folder contains all the assets from the STORY module.
 
 ## Content
+- [Eigenes Projekt](#eigenes-projekt)
 - [22.09.2025 - Beispiele und Inspirationen V1](#beispiele-und-inspirationen-v1)
   - [Übung 1 - Webcam Beobachtung](#übung-1---webcam-beobachtung)
 - [29.09.2025 - Feedbackrunde zu ersten Ideen der eigenen Arbeit](#feedbackrunde-zu-ersten-ideen-der-eigenen-arbeit)
+  - [Übung 2 - Beschreibe einen Ort, den du sehr gut kennst und zeichne ein Bild einer anderen Ortsbeschreibung](#übung-2---beschreibe-einen-ort-den-du-sehr-gut-kennst-und-zeichne-ein-bild-einer-anderen-ortsbeschreibung)
 - [06.10.2025 - Beispiele und Inspirationen V2](#beispiele-und-inspirationen-v2)
 - [13.10.2025 - Figuren und Szenerien entwickeln](#figuren-und-szenerien-entwickeln)
 - [20.10.2025 - Storyworlds](#storyworlds)
 - [27.10.2025 - Dialog](#dialog)
-- [03.11.2025 - Non-Lineares Erzählen](#non-lineares-erzählen)
-- [10.11.2025 - Visual Storytelling](#visual-storytelling)
-- [17.11.2025 - Sound](#sound)
+- [03.11.2025 - Individuelles Feedback von Susanne zum persönlichen Projekt](#individuelles-feedback-von-susanne-zum-persönlichen-projekt)
+- [10.11.2025 - Visual Storytelling & Worldbuilding](#visual-storytelling--worldbuilding)
+- [17.11.2025 - Peer Feedback zu eigenen Projekten](#peer-feedback-zu-eigenen-projekten)
 - [24.11.2025 - Feedbackrunde zur eigenen Arbeit](#feedbackrunde-zur-eigenen-arbeit)
 - [01.12.2025 - Arbeit am Projekt](#arbeit-am-projekt)
 - [08.12.2025 - Gemeinsam einen Film schauen und besprechen](#gemeinsam-einen-film-schauen-und-besprechen)
@@ -119,9 +121,10 @@ Story vs Plot: Story ist eine chronologische Serie von Handlungen, die andere be
 
 Es gibt diverse Erzählstrukturen, z.B die klassische lineare Erzählstruktur, Hypertext, konzentrische Erzählstruktur, elastische Erzählstruktur, parallele Erzählstruktur, verzweigte Erzählstruktur. 
 
-### 03.11.2025 - Non-Lineares Erzählen 
-### 10.11.2025 - Visual Storytelling
-### 17.11.2025 - Sound
+### 03.11.2025 - Individuelles Feedback von Susanne zum persönlichen Projekt
+Takeaways: Ein anderes Medium überlegen - vielleicht ein Dialog für ein Game? Auch überlegen, was ich genau spannend finde an der Serie "The Power", weshalb ich darüber schreiben möchte. Auch anschauen: Show "Lovescammers" auf Netflix.
+### 10.11.2025 - Visual Storytelling & Worldbuilding
+### 17.11.2025 - Peer Feedback zu eigenen Projekten
 ### 24.11.2025 - Feedbackrunde zur eigenen Arbeit
 ### 01.12.2025 - Arbeit am Projekt
 ### 08.12.2025 - Gemeinsam einen Film schauen und besprechen
