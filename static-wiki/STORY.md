@@ -20,9 +20,14 @@ This folder contains all the assets from the STORY module.
 - [15.12.2025 - Präsentation der eigenen Arbeit](#präsentation-der-eigenen-arbeit)
 
 ### Eigenes Projekt
-* `What is it about? -` Mein Modulprojekt wird...
+* `What is it about? -` The Masquerade is an interactive, narrative journey through memory, identity and inner voices.
+As a magician and fortune teller, you live among the fates of others – until a mysterious invitation calls you to the Palace of Echoes. At a masked ball that takes place only once a century, you encounter figures who seem strangely familiar: a silent chess player, a dancing priestess and a host wearing a silver fox mask.
+Each mask hides more than a face. And the deeper you remember, the closer you come to the question:
+_Who were you before the world told you who you should be?_
 
-* [Process Documentation (Miro Board)](linktbd)
+* [Process Documentation (Miro Board)](https://miro.com/app/board/uXjVJGFK19A=/?share_link_id=924626941800)
+
+* [Play the game here!](https://justraika.itch.io/masquarade)
 
 ### 22.09.2025 - Beispiele und Inspirationen V1
 ![Web Storytelling mit rotem Faden](./pics/Story1.png)
@@ -127,5 +132,6 @@ Takeaways: Ein anderes Medium überlegen - vielleicht ein Dialog für ein Game? 
 ### 17.11.2025 - Peer Feedback zu eigenen Projekten
 ### 24.11.2025 - Feedbackrunde zur eigenen Arbeit
 ### 01.12.2025 - Arbeit am Projekt
-### 08.12.2025 - Gemeinsam einen Film schauen und besprechen
+### 08.12.2025 - Feiertag, kein Storytelling
 ### 15.12.2025 - Präsentation der eigenen Arbeit
+
