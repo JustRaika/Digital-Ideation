@@ -16,7 +16,7 @@ This folder contains all the assets from the STORY module.
 - [17.11.2025 - Peer Feedback zu eigenen Projekten](#peer-feedback-zu-eigenen-projekten)
 - [24.11.2025 - Feedbackrunde zur eigenen Arbeit](#feedbackrunde-zur-eigenen-arbeit)
 - [01.12.2025 - Arbeit am Projekt](#arbeit-am-projekt)
-- [08.12.2025 - Gemeinsam einen Film schauen und besprechen](#gemeinsam-einen-film-schauen-und-besprechen)
+- [08.12.2025 - Feiertag, kein Storytelling](#feiertag-kein-storytelling)
 - [15.12.2025 - Präsentation der eigenen Arbeit](#präsentation-der-eigenen-arbeit)
 
 ### Eigenes Projekt
