@@ -148,5 +148,5 @@ Weitere Präsentation, die ich sehr gelungen und spannend fand, das Konzept zu U
 
 * [Fortune ails you by Tamara Faoro](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_präsi.pdf)
 * [Fortune ails you Miro Board](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_story.pdf)
-* [Fortune ails you Prototyp](https://justraika.itch.io/fortune-ails-you)
 
+g
