@@ -135,3 +135,18 @@ Takeaways: Ein anderes Medium überlegen - vielleicht ein Dialog für ein Game? 
 ### 08.12.2025 - Feiertag, kein Storytelling
 ### 15.12.2025 - Präsentation der eigenen Arbeit
 
+Feedback von der Klasse: 
+- "Dynamisches Storytelling, einheitliche Farben, sieht spannend aus" -Janina
+- "Ich mag solche Elemente, wie dass man auswählen kann welche Karte man umdrehen möchte, solche Details ziehen mich in die Geschichte rein und davon dürfte es gerne mehr haben." -Matti
+- "Sehr stimmungsvoll erzählt, man möchte mehr wissen.
+Du hast mich gleich mitgenommen in die Geschichte.
+Interessant zu überlegen, wie das interaktive Geschichtenerzählen." -Susanne
+-"Die Atmosphäre gefällt mir sehr gut, und ich finde es spannend, dass man innerhalb der Story auch selbst Entscheidungen treffen kann. Mir ist aufgefallen ist, dass der Text teilweise über Bildelementen stand, die ich eigentlich hätte sehen wollen (z.B. bei der Fuchsmaske)." -Milena
+- "Finde die einzelnen Interaktionen machen die Geschichte lebendig. Ich bin dabei aber sehr Fan von verschiedenen Enden (verstehe, dass das viel mehr Aufwand ist). Hatte aber noch die Frage, ob die Tarot-Karten randomized sind?" -Lendi
+
+Weitere Präsentation, die ich sehr gelungen und spannend fand, das Konzept zu Umsetzung als auch das Worldbuiling. 
+
+* [Fortune ails you by Tamara Faoro](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_präsi.pdf)
+* [Fortune ails you Miro Board](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_story.pdf)
+* [Fortune ails you Prototyp](https://justraika.itch.io/fortune-ails-you)
+
