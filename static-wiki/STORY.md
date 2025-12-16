@@ -147,4 +147,4 @@ Interessant zu überlegen, wie das interaktive Geschichtenerzählen." -Susanne
 Weitere Präsentation, die ich sehr gelungen und spannend fand, das Konzept zu Umsetzung als auch das Worldbuiling. 
 
 * [Fortune ails you by Tamara Faoro](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_präsi.pdf)
-* [Fortune ails you Miro Board](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_story.pdf)
+* [Fortune ails you Story](https://github.com/JustRaika/Digital-Ideation/blob/main/static-wiki/docs/fortune-ails-you_story.pdf)
